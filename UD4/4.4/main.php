@@ -1,9 +1,10 @@
 <?php
-
+require_once "Exportable.php";
 require_once "Recurso.php";
 require_once "Libro.php";
 require_once "Revista.php";
 require_once "Video.php";
+
 
 
 $libro = new Libro("Vendo Levou", "ADS123");
@@ -20,3 +21,8 @@ echo $revista->getDescripcion() . "<br>";
 
 echo $video->getTipo() . "<br>";
 echo $video->getDescripcion() . "<br>";
+
+
+echo $video->exportar();
+echo $revista->exportar();
+  //El resultado será:

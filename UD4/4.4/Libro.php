@@ -1,5 +1,4 @@
 <?php
-
 class Libro extends Recurso
 {
     private string $isbn;
