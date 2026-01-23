@@ -1,0 +1,16 @@
+<?php
+class Libro extends Recurso {
+    private string $isbn;
+
+    public function __construct(
+        string $titulo,
+        string $isbn
+    ) {
+        parent::__construct($titulo);
+        $this->isbn = $isbn;
+    }
+
+    public function getTipo(): string {
+        return "Libro";
+    }
+}
