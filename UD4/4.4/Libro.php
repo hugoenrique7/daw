@@ -1,5 +1,7 @@
 <?php
-class Libro extends Recurso {
+
+class Libro extends Recurso
+{
     private string $isbn;
 
     public function __construct(
@@ -10,7 +12,13 @@ class Libro extends Recurso {
         $this->isbn = $isbn;
     }
 
-    public function getTipo(): string {
+    public function getTipo(): string
+    {
         return "Libro";
+    }
+
+    public function getDescripcion(): string
+    {
+        return  " Titulo: " . $this->titulo . " | ISBN: " . $this->isbn;
     }
 }

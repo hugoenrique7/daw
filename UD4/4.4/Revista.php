@@ -1,6 +1,7 @@
 <?php
 
-class Revista extends Recurso {
+class Revista extends Recurso
+{
     private int $numero;
 
     public function __construct(
@@ -11,10 +12,14 @@ class Revista extends Recurso {
         $this->numero = $numero;
     }
 
-    public function getTipo(): string {
+    public function getTipo(): string
+    {
         return "Revista";
     }
+
+
+    public function getDescripcion(): string
+    {
+        return "Titulo: " . $this->titulo . " | Numero: " . $this->numero;
+    }
 }
-
-
-
