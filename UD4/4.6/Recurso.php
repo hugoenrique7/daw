@@ -9,7 +9,7 @@ abstract class Recurso
     public function __construct(string $titulo)
     {
         $this->titulo = $titulo;
-         $this->log("Se ha creado el recurso: " . $titulo);
+        $this->log("Se ha creado el recurso: " . $titulo,null,"app");
     }
 
     abstract public function getTipo(): string;

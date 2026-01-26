@@ -9,6 +9,7 @@ class Video extends Recurso {
     ) {
         parent::__construct($titulo);
         $this->duracion = $duracion;
+        $this->log("Se ha creado el Video de min: ".$this->duracion,"Danger","Video");
     }
 
     public function getTipo(): string {
