@@ -10,4 +10,14 @@ class Recurso
     {
         $this->descripcion = $descripcion;
     }
+
+    /**
+     * Get the value of descripcion
+     *
+     * @return string
+     */
+    public function getDescripcion(): string
+    {
+        return $this->descripcion;
+    }
 }

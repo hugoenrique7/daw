@@ -2,7 +2,7 @@
 
 namespace App\Model\Biblioteca;
 
-use App\Service\Traits;
+
 use App\Service\Exportador;
 use App\Service\Traits\Logger;
 

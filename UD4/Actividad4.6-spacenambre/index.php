@@ -1,16 +1,18 @@
 <?php
 
-require_once 'App/Service/Traits/Logger.php';
-require_once 'App/Model/Biblioteca/Recurso.php';
+require_once 'src/Service/Traits/Logger.php';
+require_once 'src/Model/Biblioteca/Recurso.php';
+require_once 'src/Model/Infraestructura/Recurso.php';
 
-require_once 'App/Model/Biblioteca/Libro.php';
-require_once 'App/Model/Biblioteca/Revista.php';
-require_once 'App/Model/Biblioteca/Video.php';
 
-require_once 'App/Service/Exportador.php';
-require_once 'App/Service/ExportadorTexto.php';
-require_once 'App/Service/ExportadorJSON.php';
-require_once 'App/Service/ExportadorXML.php';
+require_once 'src/Model/Biblioteca/Libro.php';
+require_once 'src/Model/Biblioteca/Revista.php';
+require_once 'src/Model/Biblioteca/Video.php';
+
+require_once 'src/Service/Exportador.php';
+require_once 'src/Service/ExportadorTexto.php';
+require_once 'src/Service/ExportadorJSON.php';
+require_once 'src/Service/ExportadorXML.php';
 
 
 use App\Service\Traits\Logger;
@@ -19,7 +21,7 @@ use App\Service\ExportadorTexto;
 use App\Service\ExportadorJSON;
 use App\Service\ExportadorXML;
 use App\Model\Biblioteca\Recurso;
-//use App\Model\Infraestructura\Recurso as RecursoInfra;
+use App\Model\Infraestructura\Recurso as RecursoInfra;
 use App\Model\Biblioteca\Libro;
 use App\Model\Biblioteca\Revista;
 use App\Model\Biblioteca\Video;
@@ -51,3 +53,9 @@ $video->setExportador(new ExportadorXML());
 echo "<pre>";
 echo htmlspecialchars($video->exportar());
 echo "</pre>";
+
+$video->agregarRecurso(new RecursoInfra("Video En VHS"));
+$video->agregarRecurso(new RecursoInfra("Video En DVD"));
+foreach ($video->getRecursos() as $value) {
+    echo $value->getDescripcion()."<br>";
+}
