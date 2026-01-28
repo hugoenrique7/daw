@@ -1,16 +1,34 @@
 <?php
-require_once "Logger.php";
-require_once 'Exportador.php';
-require_once 'ExportadorTexto.php';
-require_once 'ExportadorJSON.php';
-require_once 'ExportadorXML.php';
-require_once 'Recurso.php';
-require_once 'Libro.php';
-require_once 'Revista.php';
-require_once 'Video.php';
+
+require_once 'App/Service/Traits/Logger.php';
+require_once 'App/Model/Biblioteca/Recurso.php';
+
+require_once 'App/Model/Biblioteca/Libro.php';
+require_once 'App/Model/Biblioteca/Revista.php';
+require_once 'App/Model/Biblioteca/Video.php';
+
+require_once 'App/Service/Exportador.php';
+require_once 'App/Service/ExportadorTexto.php';
+require_once 'App/Service/ExportadorJSON.php';
+require_once 'App/Service/ExportadorXML.php';
+
+
+use App\Service\Traits\Logger;
+use App\Service\Exportador;
+use App\Service\ExportadorTexto;
+use App\Service\ExportadorJSON;
+use App\Service\ExportadorXML;
+use App\Model\Biblioteca\Recurso;
+//use App\Model\Infraestructura\Recurso as RecursoInfra;
+use App\Model\Biblioteca\Libro;
+use App\Model\Biblioteca\Revista;
+use App\Model\Biblioteca\Video;
 
 
 $libro = new Libro("Aprendiendo PHP", "978-3-16-148410-0");
+echo $libro->getDescripcion();
+
+
 $revista = new Revista("Tech Monthly", 42);
 $video = new Video("Curso de PHP", 120);
 

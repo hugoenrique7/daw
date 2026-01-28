@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Model\Biblioteca;
+
 class Video extends Recurso
 {
     private int $duracion; // Duración en minutos
@@ -10,8 +12,11 @@ class Video extends Recurso
     ) {
         parent::__construct($titulo);
         $this->duracion = $duracion;
-        $this->log("Video creado: $titulo, duración $duracion min", null,
-         "video.log");
+        $this->log(
+            "Video creado: $titulo, duración $duracion min",
+            null,
+            "video.log"
+        );
     }
 
     public function getTipo(): string
