@@ -1,0 +1,169 @@
+[INFO]2026-02-01 18:23:13 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:25:43 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:26:36 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:32:31 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:33:09 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:36:48 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:37:10 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:37:49 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:39:05 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:40:26 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:40:53 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:40:53 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:40:54 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:40:54 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:40:54 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:40:54 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:41:09 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:49:58 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:51:38 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 18:58:32 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 19:08:31 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-01 19:09:06 -  El usuario: juan@email.com tiene mas de 3 recursos 
+[INFO]2026-02-02 17:04:42 - El usuario: juan@email.comm no existe
+[INFO]2026-02-02 17:28:02 - El usuario: juan@email.comm no existe
+[INFO]2026-02-04 16:59:26 - El usuario: inexistente no existe
+[INFO]2026-02-04 17:00:18 - El usuario: inexistente no existe
+[INFO]2026-02-04 17:03:52 - El usuario: inexistente no existe
+[INFO]2026-02-04 17:05:47 - Usuario no encontrado
+[INFO]2026-02-04 17:05:53 - Usuario no encontrado
+[INFO]2026-02-04 17:14:12 - Usuario no encontrado
+[INFO]2026-02-06 12:04:47 - Usuario no encontrado
+[INFO]2026-02-06 16:18:43 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:18:43 - Usuario no encontrado
+[INFO]2026-02-06 16:26:25 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:26:25 - Usuario no encontrado
+[INFO]2026-02-06 16:26:36 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:26:36 - Usuario no encontrado
+[INFO]2026-02-06 16:29:13 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:29:13 - Usuario no encontrado
+[INFO]2026-02-06 16:29:35 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:29:35 - Usuario no encontrado
+[INFO]2026-02-06 16:31:18 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:31:19 - Usuario no encontrado
+[INFO]2026-02-06 16:31:24 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:31:24 - Usuario no encontrado
+[INFO]2026-02-06 16:32:57 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:32:58 - Usuario no encontrado
+[INFO]2026-02-06 16:35:51 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:35:51 - Usuario no encontrado
+[INFO]2026-02-06 16:37:10 - El recurso con id:2 no existe en PrestimoService
+[INFO]2026-02-06 16:37:29 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:37:29 - Usuario no encontrado
+[INFO]2026-02-06 16:38:28 - El recurso con id:2 no existe en PrestimoService
+[INFO]2026-02-06 16:38:28 - Usuario no encontrado
+[INFO]2026-02-06 16:38:46 - El recurso con id:2 no existe en PrestimoService
+[INFO]2026-02-06 16:38:52 - El recurso con id:1 no existe en PrestimoService
+[INFO]2026-02-06 16:38:52 - Usuario no encontrado
+[INFO]2026-02-06 16:49:16 - Usuario no encontrado
+[INFO]2026-02-06 16:52:12 - El recurso no existe
+[INFO]2026-02-06 16:52:39 - El recurso no existe
+[INFO]2026-02-06 16:52:39 - Usuario no encontrado
+[INFO]2026-02-06 16:52:39 - El recurso no existe
+[INFO]2026-02-06 16:53:11 - El recurso no existe
+[INFO]2026-02-06 16:53:14 - El recurso no existe
+[INFO]2026-02-06 16:53:14 - Usuario no encontrado
+[INFO]2026-02-06 16:53:14 - El recurso no existe
+[INFO]2026-02-06 17:02:34 - El recurso no existe
+[INFO]2026-02-06 17:02:40 - Usuario no encontrado
+[INFO]2026-02-06 17:03:56 - El recurso no existe
+[INFO]2026-02-06 17:03:56 - Usuario no encontrado
+[INFO]2026-02-06 17:03:56 - El recurso no existe
+[INFO]2026-02-06 17:06:29 - Usuario no encontrado
+[INFO]2026-02-06 17:06:29 - El recurso no existe
+[INFO]2026-02-06 17:06:34 - Usuario no encontrado
+[INFO]2026-02-06 17:06:34 - El recurso no existe
+[INFO]2026-02-06 17:13:10 - El recurso no existe
+[INFO]2026-02-06 17:13:59 - El recurso no existe
+[INFO]2026-02-06 17:15:46 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:16:54 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:17:07 - Usuario no encontrado
+[INFO]2026-02-06 17:17:07 - El recurso no existe
+[INFO]2026-02-06 17:17:07 - El recurso no existe
+[INFO]2026-02-06 17:19:06 - Usuario no encontrado
+[INFO]2026-02-06 17:19:06 - El recurso no existe
+[INFO]2026-02-06 17:19:06 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:19:27 - Usuario no encontrado
+[INFO]2026-02-06 17:19:27 - El recurso no existe
+[INFO]2026-02-06 17:19:27 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:28:13 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:29:07 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:33:58 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:42:29 - Usuario no encontrado
+[INFO]2026-02-06 17:42:29 - El recurso no existe
+[INFO]2026-02-06 17:42:29 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 17:44:51 - Usuario no encontrado
+[INFO]2026-02-06 17:44:51 - El recurso no existe
+[INFO]2026-02-06 17:44:51 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 18:02:14 - Usuario no encontrado
+[INFO]2026-02-06 18:02:14 - El recurso no existe
+[INFO]2026-02-06 18:02:14 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 18:08:35 - Usuario no encontrado
+[INFO]2026-02-06 18:08:35 - El recurso no existe
+[INFO]2026-02-06 18:08:35 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-06 18:08:39 - Usuario no encontrado
+[INFO]2026-02-06 18:08:39 - El recurso no existe
+[INFO]2026-02-06 18:08:39 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 12:08:48 - Usuario no encontrado
+[INFO]2026-02-08 12:08:49 - El recurso no existe
+[INFO]2026-02-08 12:08:49 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 12:21:32 - Usuario no encontrado
+[INFO]2026-02-08 12:21:32 - El recurso no existe
+[INFO]2026-02-08 12:21:32 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 12:25:26 - Usuario no encontrado
+[INFO]2026-02-08 12:49:40 - Usuario no encontrado
+[INFO]2026-02-08 12:49:40 - El recurso no existe
+[INFO]2026-02-08 12:49:40 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 13:03:56 - El Libro ID: 1 está 
+[INFO]2026-02-08 13:06:33 - El Libro ID: 1 está 
+[INFO]2026-02-08 13:08:46 - El recurso ya está prestado
+[INFO]2026-02-08 13:09:15 - El recurso ya está prestado
+[INFO]2026-02-08 13:09:26 - Usuario no encontrado
+[INFO]2026-02-08 13:09:26 - El recurso no existe
+[INFO]2026-02-08 13:09:26 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 13:09:26 - El recurso ya está prestado
+[INFO]2026-02-08 13:18:57 - Usuario no encontrado
+[INFO]2026-02-08 13:18:57 - El recurso no existe
+[INFO]2026-02-08 13:18:57 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 13:18:57 - El recurso ya está prestado
+[INFO]2026-02-08 13:23:02 - Usuario no encontrado
+[INFO]2026-02-08 13:23:02 - El recurso no existe
+[INFO]2026-02-08 13:23:02 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 13:23:02 - El recurso ya está prestado
+[INFO]2026-02-08 13:23:47 - Usuario no encontrado
+[INFO]2026-02-08 13:23:47 - El recurso no existe
+[INFO]2026-02-08 13:23:47 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 13:23:47 - El recurso ya está prestado
+[INFO]2026-02-08 13:25:40 - Usuario no encontrado
+[INFO]2026-02-08 13:25:40 - El recurso no existe
+[INFO]2026-02-08 13:25:40 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 13:25:40 - El recurso ya está prestado
+[INFO]2026-02-08 13:28:29 - El recurso ya está prestado
+[INFO]2026-02-08 18:27:35 - Usuario no encontrado
+[INFO]2026-02-08 18:27:35 - Usuario no encontrado
+[INFO]2026-02-08 18:27:35 - El recurso no existe
+[INFO]2026-02-08 18:27:35 - El recurso no existe
+[INFO]2026-02-08 18:27:35 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 18:27:35 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 18:27:35 - El recurso ya está prestado
+[INFO]2026-02-08 18:27:35 - El recurso ya está prestado
+[INFO]2026-02-08 18:27:39 - Usuario no encontrado
+[INFO]2026-02-08 18:27:39 - El recurso no existe
+[INFO]2026-02-08 18:27:39 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-08 18:27:39 - El recurso ya está prestado
+[INFO]2026-02-09 16:52:28 - Usuario no encontrado
+[INFO]2026-02-09 16:52:28 - El recurso no existe
+[INFO]2026-02-09 16:52:29 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-09 16:52:29 - El recurso ya está prestado
+[INFO]2026-02-09 17:01:47 - Usuario no encontrado
+[INFO]2026-02-09 17:01:47 - El recurso no existe
+[INFO]2026-02-09 17:01:48 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-09 17:01:48 - El recurso ya está prestado
+[INFO]2026-02-09 17:06:23 - Usuario no encontrado
+[INFO]2026-02-09 17:06:23 - El recurso no existe
+[INFO]2026-02-09 17:06:23 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-09 17:06:23 - El recurso ya está prestado
+[INFO]2026-02-09 17:20:48 - Usuario no encontrado
+[INFO]2026-02-09 17:20:49 - El recurso no existe
+[INFO]2026-02-09 17:20:49 - El usuario tiene mas de 3 recursos prestado
+[INFO]2026-02-09 17:20:49 - El recurso ya está prestado

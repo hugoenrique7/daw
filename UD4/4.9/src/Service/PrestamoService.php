@@ -59,7 +59,16 @@ class PrestamoService
     public function prestar(string $emailUsuario, int $idRecurso)
     {
         try {
+            
+            if (!isset($this->usuarios[$emailUsuario])) {
+                throw new Exception("Usuario no encontrado");
+            }
 
+             if (!isset($this->recursos[$idRecurso]))  {
+                throw new Exception("El recurso con id:{$idRecurso} no existe en PrestimoService");
+            }
+
+            
             if (!$this->recursos[$idRecurso]->isDisponible()) {
                 throw new Exception("El {$this->recursos[$idRecurso]->getTipo()} ID: {$idRecurso} está {$this->recursos[$idRecurso]->estado}");
             }
