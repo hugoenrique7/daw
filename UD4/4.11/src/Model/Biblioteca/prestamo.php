@@ -69,4 +69,24 @@ class Prestamo
     {
         return $this->fechaDevolucion;
     }
+
+    /**
+     * Get the value of cliente
+     */
+    public function getCliente()
+    {
+        return $this->cliente;
+    }
+
+    /**
+     * Set the value of cliente
+     *
+     * @return  self
+     */
+    public function setCliente($cliente)
+    {
+        $this->cliente = $cliente;
+
+        return $this;
+    }
 }

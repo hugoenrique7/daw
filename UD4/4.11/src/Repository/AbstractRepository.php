@@ -1,8 +1,10 @@
 <?php
+
 namespace App\Repository;
 
 use App\Model\Biblioteca\Usuario;
 use PDO;
+use PhpParser\Node\Expr\Cast\Object_;
 
 abstract class AbstractRepository
 {
@@ -28,12 +30,13 @@ abstract class AbstractRepository
         return $stmt->fetch(PDO::FETCH_ASSOC) ?: null;
     }
 
-   public function eliminar(Usuario $object): {
-    $stmt = $this->pdo->prepare("DELETE FROM  {$this->table} WHERE {$this->primaryKey} = ?");
-    $stmt->execute([
+    public function delete(object $object): bool
+    {
+        $stmt = $this->pdo->prepare("DELETE FROM  {$this->table} WHERE {$this->primaryKey} = ?");
+        $stmt->execute([
             $object->getId(),
         ]);
-
-   }
-   
+        return $stmt->rowCount() === 1;
+    }
+    abstract function create(object $object): ?object;
 }

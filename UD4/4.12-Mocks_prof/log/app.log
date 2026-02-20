@@ -1,0 +1,400 @@
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro4 con id: 4
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-01-30 12:02:06 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro4 con id: 4
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-01-30 12:02:41 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-01-30 12:02:59 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-02-02 12:10:31 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[ERROR] 2026-02-02 14:02:57 - Usuario no encontrado: inexistente
+[ERROR] 2026-02-02 14:08:36 - Usuario no encontrado: inexistente
+[ERROR] 2026-02-02 14:08:36 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-02 14:11:54 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-02 14:11:54 - Se ha creado el recurso: Libro de prueba con id: 2
+[ERROR] 2026-02-02 14:11:54 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-02 14:12:38 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-02 14:12:38 - Se ha creado el recurso: Libro de prueba con id: 2
+[ERROR] 2026-02-02 14:12:38 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:32:17 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Libro de prueba con id: 4
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Título con id: 5
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Vídeo con id: 6
+[INFO] 2026-02-13 16:32:17 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:17 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Libro de prueba con id: 7
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Título con id: 8
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Vídeo con id: 9
+[INFO] 2026-02-13 16:32:17 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:17 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Libro de prueba con id: 10
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Título con id: 11
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Vídeo con id: 12
+[INFO] 2026-02-13 16:32:17 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:17 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Libro de prueba con id: 13
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Título con id: 14
+[DEBUG] 2026-02-13 16:32:17 - Se ha creado el recurso: Vídeo con id: 15
+[INFO] 2026-02-13 16:32:17 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:17 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 16
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 17
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 18
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:18 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 19
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 20
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 21
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 22
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 23
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 24
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 25
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 26
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 27
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:18 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 28
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 29
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 30
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:18 - Recurso no encontrado: 999
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 31
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 32
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 33
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:18 - Recurso no disponible: 31
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 34
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 35
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 36
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título 4 con id: 37
+[ERROR] 2026-02-13 16:32:18 - Usuario ha alcanzado el máximo de préstamos: juan@example.com
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 38
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 39
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 40
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Libro de prueba con id: 41
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Título con id: 42
+[DEBUG] 2026-02-13 16:32:18 - Se ha creado el recurso: Vídeo con id: 43
+[INFO] 2026-02-13 16:32:18 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:32:23 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:32:23 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:32:23 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:32:23 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:23 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:32:26 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:32:26 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:32:26 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:32:26 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:26 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:32:31 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:32:31 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:32:31 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:32:31 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:31 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:32:32 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:32:32 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:32:32 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:32:32 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:32:32 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 4
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 5
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 6
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 7
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 8
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 9
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 10
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 11
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 12
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 13
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 14
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 15
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 16
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 17
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 18
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Usuario no encontrado: juan@example.com
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 19
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 20
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 21
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 22
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 23
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 24
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 25
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 26
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 27
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 28
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 29
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 30
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Recurso no encontrado: 999
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 31
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Título con id: 32
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Vídeo con id: 33
+[INFO] 2026-02-13 16:33:46 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:33:46 - Recurso no disponible: 31
+[DEBUG] 2026-02-13 16:33:46 - Se ha creado el recurso: Libro de prueba con id: 34
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Título con id: 35
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Vídeo con id: 36
+[INFO] 2026-02-13 16:33:47 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Título 4 con id: 37
+[ERROR] 2026-02-13 16:33:47 - Usuario ha alcanzado el máximo de préstamos: juan@example.com
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Libro de prueba con id: 38
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Título con id: 39
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Vídeo con id: 40
+[INFO] 2026-02-13 16:33:47 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Libro de prueba con id: 41
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Título con id: 42
+[DEBUG] 2026-02-13 16:33:47 - Se ha creado el recurso: Vídeo con id: 43
+[INFO] 2026-02-13 16:33:47 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:55:58 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:55:58 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:55:58 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:55:58 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:55:59 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 16:57:44 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:57:44 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:57:44 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:57:44 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 16:57:59 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:57:59 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:57:59 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:57:59 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:57:59 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 16:58:14 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 16:58:14 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 16:58:14 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 16:58:14 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 16:58:14 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-13 17:02:25 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:02:25 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:02:25 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:02:25 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-13 17:02:25 - Recurso no encontrado: 999
+[DEBUG] 2026-02-13 17:13:01 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:13:01 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:13:01 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:13:01 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:13:33 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:13:33 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:13:33 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:13:33 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:14:19 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:14:19 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:14:19 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:14:19 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:45:50 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:45:50 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:45:50 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:45:50 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:46:57 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:46:57 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:46:57 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:46:57 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:47:51 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:47:51 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:47:51 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:47:51 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:48:49 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:48:49 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:48:49 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:48:49 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:48:57 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:48:57 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:48:57 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:48:57 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:55:34 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:55:34 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:55:34 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:55:34 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-13 17:55:34 - Se ha creado el recurso: Título 4 con id: 4
+[ERROR] 2026-02-13 17:55:34 - Usuario ha alcanzado el máximo de préstamos: juan@example.com
+[DEBUG] 2026-02-13 17:56:33 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-13 17:56:33 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-13 17:56:33 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-13 17:56:33 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:10 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-20 16:12:10 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-20 16:12:10 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-20 16:12:10 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:11 - Se ha creado el recurso: Libro de prueba con id: 4
+[DEBUG] 2026-02-20 16:12:11 - Se ha creado el recurso: Título con id: 5
+[DEBUG] 2026-02-20 16:12:11 - Se ha creado el recurso: Vídeo con id: 6
+[INFO] 2026-02-20 16:12:11 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:12:12 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-20 16:12:12 - Se ha creado el recurso: Libro de prueba con id: 7
+[DEBUG] 2026-02-20 16:12:12 - Se ha creado el recurso: Título con id: 8
+[DEBUG] 2026-02-20 16:12:12 - Se ha creado el recurso: Vídeo con id: 9
+[INFO] 2026-02-20 16:12:12 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:12:12 - Recurso no encontrado: 999
+[DEBUG] 2026-02-20 16:12:12 - Se ha creado el recurso: Libro de prueba con id: 10
+[DEBUG] 2026-02-20 16:12:12 - Se ha creado el recurso: Título con id: 11
+[DEBUG] 2026-02-20 16:12:12 - Se ha creado el recurso: Vídeo con id: 12
+[INFO] 2026-02-20 16:12:12 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Libro de prueba con id: 13
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título con id: 14
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Vídeo con id: 15
+[INFO] 2026-02-20 16:12:14 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título 4 con id: 16
+[ERROR] 2026-02-20 16:12:14 - Usuario ha alcanzado el máximo de préstamos: juan@example.com
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Libro de prueba con id: 17
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título con id: 18
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Vídeo con id: 19
+[INFO] 2026-02-20 16:12:14 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Libro de prueba con id: 20
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título con id: 21
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Vídeo con id: 22
+[INFO] 2026-02-20 16:12:14 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Libro de prueba con id: 23
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título con id: 24
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Vídeo con id: 25
+[INFO] 2026-02-20 16:12:14 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Libro de prueba con id: 26
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título con id: 27
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Vídeo con id: 28
+[INFO] 2026-02-20 16:12:14 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:12:14 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Libro de prueba con id: 29
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título con id: 30
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Vídeo con id: 31
+[INFO] 2026-02-20 16:12:14 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:12:14 - Recurso no encontrado: 999
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Libro de prueba con id: 32
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Título con id: 33
+[DEBUG] 2026-02-20 16:12:14 - Se ha creado el recurso: Vídeo con id: 34
+[INFO] 2026-02-20 16:12:14 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:12:15 - Recurso no disponible: 32
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Libro de prueba con id: 35
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Título con id: 36
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Vídeo con id: 37
+[INFO] 2026-02-20 16:12:15 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Título 4 con id: 38
+[ERROR] 2026-02-20 16:12:15 - Usuario ha alcanzado el máximo de préstamos: juan@example.com
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Libro de prueba con id: 39
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Título con id: 40
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Vídeo con id: 41
+[INFO] 2026-02-20 16:12:15 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Libro de prueba con id: 42
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Título con id: 43
+[DEBUG] 2026-02-20 16:12:15 - Se ha creado el recurso: Vídeo con id: 44
+[INFO] 2026-02-20 16:12:15 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:12:34 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-20 16:12:34 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-20 16:12:34 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-20 16:12:34 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:16 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-20 16:26:16 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-20 16:26:16 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-20 16:26:16 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:26:17 - Recurso no disponible: 1
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-20 16:26:48 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Libro de prueba con id: 4
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Título con id: 5
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Vídeo con id: 6
+[INFO] 2026-02-20 16:26:48 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:26:48 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Libro de prueba con id: 7
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Título con id: 8
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Vídeo con id: 9
+[INFO] 2026-02-20 16:26:48 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:26:48 - Recurso no encontrado: 999
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Libro de prueba con id: 10
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Título con id: 11
+[DEBUG] 2026-02-20 16:26:48 - Se ha creado el recurso: Vídeo con id: 12
+[INFO] 2026-02-20 16:26:48 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:26:48 - Recurso no disponible: 10
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Libro de prueba con id: 13
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título con id: 14
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Vídeo con id: 15
+[INFO] 2026-02-20 16:26:49 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título 4 con id: 16
+[ERROR] 2026-02-20 16:26:49 - Usuario ha alcanzado el máximo de préstamos: juan@example.com
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Libro de prueba con id: 17
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título con id: 18
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Vídeo con id: 19
+[INFO] 2026-02-20 16:26:49 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Libro de prueba con id: 20
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título con id: 21
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Vídeo con id: 22
+[INFO] 2026-02-20 16:26:49 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Libro de prueba con id: 23
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título con id: 24
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Vídeo con id: 25
+[INFO] 2026-02-20 16:26:49 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Libro de prueba con id: 26
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título con id: 27
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Vídeo con id: 28
+[INFO] 2026-02-20 16:26:49 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:26:49 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Libro de prueba con id: 29
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título con id: 30
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Vídeo con id: 31
+[INFO] 2026-02-20 16:26:49 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:26:49 - Recurso no encontrado: 999
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Libro de prueba con id: 32
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Título con id: 33
+[DEBUG] 2026-02-20 16:26:49 - Se ha creado el recurso: Vídeo con id: 34
+[INFO] 2026-02-20 16:26:49 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:26:50 - Recurso no disponible: 32
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Libro de prueba con id: 35
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Título con id: 36
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Vídeo con id: 37
+[INFO] 2026-02-20 16:26:50 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Título 4 con id: 38
+[ERROR] 2026-02-20 16:26:50 - Usuario ha alcanzado el máximo de préstamos: juan@example.com
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Libro de prueba con id: 39
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Título con id: 40
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Vídeo con id: 41
+[INFO] 2026-02-20 16:26:50 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Libro de prueba con id: 42
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Título con id: 43
+[DEBUG] 2026-02-20 16:26:50 - Se ha creado el recurso: Vídeo con id: 44
+[INFO] 2026-02-20 16:26:50 - Video creado: Vídeo, duración 120 min
+[DEBUG] 2026-02-20 16:30:03 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-20 16:30:03 - Se ha creado el recurso: Título con id: 2
+[DEBUG] 2026-02-20 16:30:03 - Se ha creado el recurso: Vídeo con id: 3
+[INFO] 2026-02-20 16:30:03 - Video creado: Vídeo, duración 120 min
+[ERROR] 2026-02-20 16:30:03 - Recurso no encontrado: 999

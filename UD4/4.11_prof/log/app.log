@@ -1,0 +1,37 @@
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 11:37:41 - Se ha creado el recurso: libro4 con id: 4
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:06 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-01-30 12:02:06 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:34 - Se ha creado el recurso: libro4 con id: 4
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:41 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-01-30 12:02:41 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-01-30 12:02:59 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-01-30 12:02:59 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro1 con id: 1
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro2 con id: 2
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro3 con id: 3
+[DEBUG] 2026-02-02 12:10:31 - Se ha creado el recurso: libro4 con id: 4
+[ERROR] 2026-02-02 12:10:31 - Usuario ha alcanzado el máximo de préstamos: juan@email.com
+[ERROR] 2026-02-02 14:02:57 - Usuario no encontrado: inexistente
+[ERROR] 2026-02-02 14:08:36 - Usuario no encontrado: inexistente
+[ERROR] 2026-02-02 14:08:36 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-02 14:11:54 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-02 14:11:54 - Se ha creado el recurso: Libro de prueba con id: 2
+[ERROR] 2026-02-02 14:11:54 - Usuario no encontrado: inexistente
+[DEBUG] 2026-02-02 14:12:38 - Se ha creado el recurso: Libro de prueba con id: 1
+[DEBUG] 2026-02-02 14:12:38 - Se ha creado el recurso: Libro de prueba con id: 2
+[ERROR] 2026-02-02 14:12:38 - Usuario no encontrado: inexistente

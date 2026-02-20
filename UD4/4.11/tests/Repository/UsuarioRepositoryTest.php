@@ -1,11 +1,14 @@
 <?php
+
 namespace App\Tests\Repository;
+
 use PDO;
 
 use PHPUnit\Framework\TestCase;
 use App\Model\Biblioteca\Usuario;
 use App\Repository\UsuarioRepository;
 
+use function PHPUnit\Framework\assertNull;
 
 class UsuarioRepositoryTest extends TestCase
 {
@@ -15,10 +18,10 @@ class UsuarioRepositoryTest extends TestCase
     protected function setUp(): void
     {
         $this->pdo = new PDO('sqlite::memory:');
-         //Configuramos la conexión para que lance PDOExcepction en caso de error (no es necesario para versione PHP recientes)
+        //Configuramos la conexión para que lance PDOExcepction en caso de error (no es necesario para versione PHP recientes)
         $this->pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-       //Creamos la/s tablas necesarias
+        //Creamos la/s tablas necesarias
         $this->crearEsquema();
         $this->repository = new UsuarioRepository($this->pdo);
     }
@@ -39,7 +42,7 @@ class UsuarioRepositoryTest extends TestCase
         $usuario = new Usuario("Juan", "juan@example.com");
 
         $usuario = $this->repository->create($usuario);
-        
+
         $this->assertNotNull($usuario);
         $this->assertNotNull($usuario->getId());
 
@@ -49,5 +52,24 @@ class UsuarioRepositoryTest extends TestCase
         $this->assertEquals("Juan", $usuarioBD->getNombre());
         $this->assertEquals("juan@example.com", $usuarioBD->getEmail());
         $this->assertEquals($usuario->getId(), $usuarioBD->getId());
+    }
+    public function testEliminarUsuario()
+    {
+
+        $usuario = new Usuario("Juan", "juan@example.com");
+        $this->repository->create($usuario);
+        $this->assertNotNull($usuario);
+
+        $this->assertTrue($this->repository->delete($usuario));
+        $this->assertNull($this->repository->findByEmail($usuario->getEmail()));
+    }
+    public function testEliminarUsuarioNoExistente()
+    {
+
+        $usuario = new Usuario("Juan", "juan@example.com");
+        $usuario->setId(10);
+
+        $this->assertFalse($this->repository->delete($usuario));
+        $this->assertNull($this->repository->findByEmail($usuario->getEmail()));
     }
 }
