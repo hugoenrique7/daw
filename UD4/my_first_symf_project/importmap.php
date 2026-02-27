@@ -26,4 +26,7 @@ return [
         'version' => '5.3.8',
         'type' => 'css',
     ],
+    '@hotwired/stimulus' => [
+        'version' => '3.2.2',
+    ],
 ];

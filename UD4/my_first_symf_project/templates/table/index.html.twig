@@ -1,0 +1,62 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hola mi primera tabla
+{% endblock %}
+
+{% block body %}
+	<style>
+		.example-wrapper {
+			margin: 1em auto;
+			max-width: 800px;
+			width: 95%;
+			font: 18px / 1.5 sans-serif;
+		}
+		.example-wrapper code {
+			background: #F5F5F5;
+			padding: 2px 6px;
+		}
+		table {
+			border-collapse: collapse
+		}
+		td {
+			border: 1px solid black;
+			text-align: center;
+			min-width: 110px;
+            height:40px;
+		}
+		th {
+			text-align: center;
+            background-color: blue;
+            color:white;
+            border: 1px solid black;
+		}
+	</style>
+
+	<div class="example-wrapper">
+		<h1>Tabla tarea 13 🔇🤫🔥</h1>
+		<p>Cantidad de Filas = 
+			{{filas}}
+		</p>
+		<p>Cantidad de Coluna =
+			{{colunas}}
+		</p>
+		<br>
+		<div class="container">
+			<table>
+
+				{% for cont in 1..colunas%}
+					<th>col.{{cont}}</th>
+				{% endfor %}
+				{% for filaX in tabla %}
+					<tr>
+						{% for col in filaX %}
+							<td>
+								{{col}}</td>
+						{% endfor %}
+					</tr>
+				{% endfor %}
+			</table>
+
+		</div>
+
+	{% endblock %}
